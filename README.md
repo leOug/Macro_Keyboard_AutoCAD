@@ -36,3 +36,5 @@ Some length of wire
 
 I designed the casing according to the dimensions of the buttons and a vague notion of ergonomics.
 
+You are free to use the design and the code for personal non-commercial usage.
+
