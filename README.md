@@ -18,37 +18,37 @@ numbered arduino PIN and the right one is connected to VCC of the Arduino.
 
 Materials Used:
 
-*1 x Arduino Leonardo Pro Micro ATmega32U4 5V 16MHz
+* 1 x Arduino Leonardo Pro Micro ATmega32U4 5V 16MHz
 
-*1 x Toggle Switch SPDT ON-ON Mini
+* 1 x Toggle Switch SPDT ON-ON Mini
 
-*1 x Arcade Push Button Mini 27mm
+* 1 x Arcade Push Button Mini 27mm
 
-*1 x Microswitch Mini SPDT ON-(ON) - with Roller Simulation (the ones used in 3D printers and CNC machines)
+* 1 x Microswitch Mini SPDT ON-(ON) - with Roller Simulation (the ones used in 3D printers and CNC machines)
 
-*2 x Tactile Switch 6x6mm 5mm 4pins
+* 2 x Tactile Switch 6x6mm 5mm 4pins
 
-*7 x Tactile Switch 12x12mm 4.3mm
+* 7 x Tactile Switch 12x12mm 4.3mm
 
-*1 x B100K Potentiometer
+* 1 x B100K Potentiometer
 
-*12 x 10KΩhm Resistors for the buttons
+* 12 x 10KΩhm Resistors for the buttons
 
-*3 x 220Ωhm Resistors for the LED
+* 3 x 220Ωhm Resistors for the LED
 
-*1 x male micro USB header
+* 1 x male micro USB header
 
-*1 x Female USB type B header
+* 1 x Female USB type B header
 
-*1 x perf board
+* 1 x perf board
 
-*4 x M.2 screws
+* 4 x M.2 screws
 
-*Super Glue
+* Super Glue
 
-*Nail Polish for basic water resistance
+* Nail Polish for basic water resistance
 
-*Some length of wire
+* Some length of wire
 
 I designed the casing according to the dimensions of the buttons and a vague notion of ergonomics.
 
